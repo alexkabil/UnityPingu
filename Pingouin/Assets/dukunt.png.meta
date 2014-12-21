@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: 4200fb5c970f74a9cbb0a59162e7a9fe
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dukunt_0
+    21300002: dukunt_1
+    21300004: dukunt_2
+    21300006: dukunt_3
+    21300008: dukunt_4
+    21300010: dukunt_5
+    21300012: dukunt_6
+    21300014: dukunt_7
+    21300016: dukunt_8
+    21300018: dukunt_9
+    21300020: dukunt_10
+    21300022: dukunt_11
+    21300024: dukunt_12
+    21300026: dukunt_13
+    21300028: dukunt_14
+    21300030: dukunt_15
+    21300032: dukunt_16
+    21300034: dukunt_17
+    21300036: dukunt_18
+    21300038: dukunt_19
+    21300040: dukunt_20
+    21300042: dukunt_21
+    21300044: dukunt_22
+    21300046: dukunt_23
+    21300048: dukunt_24
+    21300050: dukunt_25
+    21300052: dukunt_26
+    21300054: dukunt_27
+    21300056: dukunt_28
+    21300058: dukunt_29
+    21300060: dukunt_30
+    21300062: dukunt_31
+    21300064: dukunt_32
+    21300066: dukunt_33
+    21300068: dukunt_34
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dukunt_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 451
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dukunt_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 449
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dukunt_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 451
+        height: 283
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
